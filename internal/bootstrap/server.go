@@ -6,10 +6,10 @@ import (
 	"os/signal"
 	"syscall"
 
-	"dnd-api/internal/api"
-	"dnd-api/internal/database"
-	"dnd-api/internal/utils"
-	"dnd-api/internal/utils/config"
+	"t20-api/internal/api"
+	"t20-api/internal/database"
+	"t20-api/internal/utils"
+	"t20-api/internal/utils/config"
 
 	"github.com/rs/zerolog/log"
 )

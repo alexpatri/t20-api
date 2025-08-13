@@ -9,7 +9,7 @@ import (
 	"github.com/gofiber/fiber/v2/middleware/logger"
 	"github.com/gofiber/fiber/v2/middleware/recover"
 
-	"dnd-api/internal/utils/config"
+	"t20-api/internal/utils/config"
 )
 
 // Server encapsula o servidor HTTP Fiber

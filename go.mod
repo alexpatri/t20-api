@@ -1,4 +1,4 @@
-module dnd-api
+module t20-api
 
 go 1.24.4
 

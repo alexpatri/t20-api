@@ -7,7 +7,7 @@ import (
 	"go.mongodb.org/mongo-driver/mongo"
 	"go.mongodb.org/mongo-driver/mongo/options"
 
-	"dnd-api/internal/utils/config"
+	"t20-api/internal/utils/config"
 )
 
 var Database *mongo.Database

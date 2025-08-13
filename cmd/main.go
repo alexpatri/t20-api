@@ -1,7 +1,7 @@
 package main
 
 import (
-	"dnd-api/internal/bootstrap"
+	"t20-api/internal/bootstrap"
 )
 
 func main() {
